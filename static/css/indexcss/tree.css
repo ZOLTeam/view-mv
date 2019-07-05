@@ -1,0 +1,9 @@
+.el-tree-node:focus>.el-tree-node__content{
+  background-color: #a6dbee !important;
+}
+.el-tree-node__content:hover,.el-tree-node__content:focus{
+  background-color: #A6DBEE !important;
+}
+.el-tree--highlight-current .el-tree-node.is-current>.el-tree-node__content{
+  background-color: #A6DBEE !important;
+}
